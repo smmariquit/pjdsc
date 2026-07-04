@@ -8,12 +8,12 @@ streamlit run app_ml.py
 
 ## What's New?
 
-✅ **Real ML Models**: Uses trained artifacts from `model/Final_Transform/`  
-✅ **JTWC Integration**: Parse real storm bulletins  
-✅ **Feature Engineering**: Automatic 75+ feature extraction  
-✅ **Dual Predictions**: Both persons affected AND houses damaged  
-✅ **Interactive Maps**: Folium maps with risk visualization  
-✅ **Export**: Download predictions as CSV  
+✅ **Real ML Models**: Uses trained artifacts from `model/Final_Transform/` 
+✅ **JTWC Integration**: Parse real storm bulletins 
+✅ **Feature Engineering**: Automatic 75+ feature extraction 
+✅ **Dual Predictions**: Both persons affected AND houses damaged 
+✅ **Interactive Maps**: Folium maps with risk visualization 
+✅ **Export**: Download predictions as CSV 
 
 ## How to Use
 
