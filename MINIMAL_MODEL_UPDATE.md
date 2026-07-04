@@ -9,15 +9,15 @@
 
 ### 2. Prediction Logic
 - **BEFORE**: 
-  - Added group prefixes (group1__, group2__, etc.)
-  - Filled 74 missing features with zeros
-  - Used separate models for persons and houses
-  
+ - Added group prefixes (group1__, group2__, etc.)
+ - Filled 74 missing features with zeros
+ - Used separate models for persons and houses
+ 
 - **AFTER**:
-  - Uses raw feature names (no prefixes)
-  - Only needs 6 features from the pipeline
-  - Single model for persons only
-  - Fills missing with sensible defaults (not zeros!)
+ - Uses raw feature names (no prefixes)
+ - Only needs 6 features from the pipeline
+ - Single model for persons only
+ - Fills missing with sensible defaults (not zeros!)
 
 ### 3. Display Updates
 - Removed "Houses Damaged" metrics
