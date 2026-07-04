@@ -1,6 +1,6 @@
 # 🌪️ Philippines Storm Impact Analyzer
 
-A comprehensive Streamlit web application for analyzing and visualizing the economic impact of storms on Philippine provinces. This tool combines meteorological forecast data with geographic and economic information to estimate potential damage and affected areas.
+A full Streamlit web application for analyzing and visualizing the economic impact of storms on Philippine provinces. This tool combines meteorological forecast data with geographic and economic information to estimate potential damage and affected areas.
 
 ![Philippines Storm Impact Analyzer](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,7 +11,7 @@ A comprehensive Streamlit web application for analyzing and visualizing the econ
 - **Interactive Philippines Map**: Visualize provinces, storm tracks, and impact zones
 - **Economic Impact Modeling**: Calculate estimated economic losses based on storm intensity and proximity
 - **Real-time Analysis**: Upload custom forecast data or use sample datasets
-- **Multiple Visualizations**: Charts, maps, and tables for comprehensive analysis
+- **Multiple Visualizations**: Charts, maps, and tables for full analysis
 - **Data Export**: Download analysis results in CSV format
 - **Responsive Design**: Works on desktop and mobile devices
 
@@ -25,24 +25,24 @@ A comprehensive Streamlit web application for analyzing and visualizing the econ
 ### Installation
 
 1. **Clone or download this project**:
-   ```bash
+ ```bash
    git clone <repository-url>
    cd pjdsc
    ```
 
 2. **Install required packages**:
-   ```bash
+ ```bash
    pip install -r requirements.txt
    ```
 
 3. **Run the application**:
-   ```bash
+ ```bash
    streamlit run app.py
    ```
 
 4. **Open in browser**:
-   - The app will automatically open at `http://localhost:8501`
-   - If it doesn't open automatically, navigate to the URL shown in your terminal
+ - The app will automatically open at `http://localhost:8501`
+ - If it doesn't open automatically, navigate to the URL shown in your terminal
 
 ## 📊 Data Formats
 
